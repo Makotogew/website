@@ -1,0 +1,7 @@
+            - name: Checks out flutter
+        uses: actions/checkout@v2
+        with:
+          repository: flutter/flutter
+          token: ${{ github.token }}
+          ref: refs/heads/master
+          path: flutter
