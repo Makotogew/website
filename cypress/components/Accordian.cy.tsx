@@ -5,7 +5,7 @@ import mockNextRouter, { MockRouter } from '../plugins/mockNextRouterUtils';
 interface AccordionItem {
   question: string;
   answer: string;
-  id: number;
+  id: number; 
 }
 
 interface AccordionProps {
