@@ -3,7 +3,7 @@
  * @returns The mock router object.
  */
 
-export interface MockRouter {
+export interface MockRouter { 
   push: any;
   replace: any;
   prefetch: any;
