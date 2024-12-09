@@ -4,7 +4,7 @@ updates:
     # Configuration for yarn package ecosystem
   - package-ecosystem: "npm"  
 
-    # Directory containing the package manifests (e.g. yarn.lock)
+    # Directory containing the package manifests (e.g. yarn.lock) 
     directory: "/" 
 
     # Schedule for dependency updates
